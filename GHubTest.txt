@@ -1,9 +1,12 @@
+Here's my gitTest WITH a fancy FIRST Branch added!
+
 Here's my gitHub Test:
 
 Lots of cool and interesting things.
 Trying to figure this all out.
 Adding random sentences.
 How fun.
+NEW BRANCH NUMBER ONE!
 SO fun.
 I'm hungry. 
 I should eat.
